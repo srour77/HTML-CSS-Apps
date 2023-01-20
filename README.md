@@ -1,1 +1,1 @@
-# Just some html and css templates.
+# Just some html, css and javascript templates.
